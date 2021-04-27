@@ -4,4 +4,4 @@ Calculadora simples desenvolvida para Android nativo com Kotlin. A calculadora r
 ## Vídeo do funcionamento do APP
 ---
 
-![gifcalculadora](https://github.com/BruceTrindade/SimpleCalculatorAndroid/blob/master/CalculadoraVideo.gif)
+![gifcalculadora](https://github.com/BruceTrindade/SimpleCalculatorAndroid/blob/master/gifCalculadora.gif)
